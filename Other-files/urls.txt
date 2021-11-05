@@ -3,3 +3,5 @@ https://f000.backblazeb2.com/file/altstore/altserver/altplugin/1_0.zip
 https://cdn.altstore.io/file/altstore/altserver/developerdisks.json
 
 https://cdn.altstore.io/file/altstore/altstore-beta.ipa
+
+https://cdn.altstore.io/file/altstore/apps.json
