@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "disks": {
+    "iOS": {
+      "13.3": {
+        "archive": "https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/releases/download/13.3/13.3.17C54.zip"
+      },
+      "14.0": {
+        "archive": "https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/releases/download/14.0/14.0.18A5342e.zip"
+      },
+      "14.1": {
+        "archive": "https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/releases/download/14.1/14.1.18A8394.zip"
+      },
+      "14.2": {
+        "archive": "https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/releases/download/14.2/14.2.18B92.zip"
+      },
+      "14.3": {
+        "archive": "https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/releases/download/14.3/14.3.18C65.zip"
+      },
+      "14.4": {
+        "archive": "https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/releases/download/14.4/14.4.18D48.zip"
+      },
+      "14.5": {
+        "archive": "https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/releases/download/14.5/14.5.18E5164d.zip"
+      },
+      "14.6": {
+        "archive": "https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/releases/download/14.5/14.5.18E5164d.zip"
+      },
+      "14.7": {
+        "archive": "https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/releases/download/14.5/14.5.18E5164d.zip"
+      },
+      "15.0": {
+        "archive": "https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases/download/15.0/15.0.zip"
+      },
+      "15.1": {
+        "archive": "https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases/download/15.0/15.0.zip"
+      },
+      "15.2": {
+        "disk": "https://raw.githubusercontent.com/pdso/DeveloperDiskImage/master/15.2/DeveloperDiskImage.dmg",
+        "signature": "https://raw.githubusercontent.com/pdso/DeveloperDiskImage/master/15.2/DeveloperDiskImage.dmg.signature"
+      }
+    },
+    "tvOS": {
+      "15.0": {
+        "archive": "https://raw.github.com/haikieu/xcode-developer-disk-image-all-platforms/master/DiskImages/AppleTVOS.platform/DeviceSupport/15.0.zip"
+      },
+      "15.1": {
+        "archive": "https://raw.github.com/haikieu/xcode-developer-disk-image-all-platforms/master/DiskImages/AppleTVOS.platform/DeviceSupport/15.0.zip"
+      }
+    }
+  }
+}
